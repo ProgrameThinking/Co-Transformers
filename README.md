@@ -1,4 +1,4 @@
-# Collaborative Transformers With Multi-Level Forensic Attention for Image Manipulation Localization
+# Collaborative Transformers With Multi-Level Forensic Attention for Image Manipulation Localization(AAAI 2026)
 
 Official repository for the AAAI 2026 paper **Collaborative Transformers With Multi-Level Forensic Attention for Image Manipulation Localization**.
 
